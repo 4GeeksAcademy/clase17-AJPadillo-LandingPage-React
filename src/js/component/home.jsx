@@ -15,7 +15,6 @@ const Home = () => {
 					<Jumbotron />
 					<Card />
 				</div>
-
 			</div>
 			<Footer />
 		</>
